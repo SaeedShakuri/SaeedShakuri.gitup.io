@@ -5,7 +5,7 @@
 <body>
   <div style="display: flex;">
     <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 155px;">
-      <img src="assets/img/profile.png" alt="Profile Picture" width="130" style="border-radius: 50%;">
+      <img src="assets/img/20220907_100257-fotor-2023081816913.png" alt="Profile Picture" width="130" style="border-radius: 50%;">
       <h2>Saeed Shakuri</h2>
       
       <!-- Social Media Links -->
@@ -18,7 +18,7 @@
 
       <h2>About me</h2>
       <p>
-        I am a master’s student at the University of Science and Culture, majoring in Data Science. I am interested in doing research on the cutting-edge applications of Deep Learning, particularly in Computer Vision, and I'm currently working on Few-Shot object detection for my thesis. Also, I am collaborating with a group of researchers on an article titled 'Real-time facial emotion recognition with EfficientNetV2' which by a thorough contribution to preparing and writing the article, it allowed me to build a deep understanding of the context.
+        I am a master’s student under the supervision of <a href="[link-to-dr-rezvanian-profile](http://rezvanian.usc.ac.ir/)">Dr. Alireza Rezvanian</a> at the University of Science and Culture (USC), majoring in Data Science. I am extremely enthusiastic about conducting research at the forefront of Deep Learning methods, particularly in Computer Vision, and I'm currently working on Few-Shot object detection for my thesis. Also, I am currently collaborating on an article titled 'Real-time facial emotion recognition with EfficientNetV2'.
       </p>
       <h4>Research interests:</h4>
       <p>
