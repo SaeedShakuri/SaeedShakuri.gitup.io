@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <style>
     .container {
       display: flex;
       background-color: #f5f5f5;
@@ -6,17 +11,19 @@
     .left-section {
       flex: 1;
       display: flex;
+      flex-direction: column;
+      justify-content: center;
       align-items: center;
       padding-right: 20px;
     }
     .profile-picture {
       border-radius: 50%;
-      width: 100px;
-      margin-right: 20px;
+      width: 120px;
+      margin-bottom: 10px;
     }
     .social-icons {
-      font-size: 24px;
-      margin-right: 10px;
+      font-size: 30px;
+      margin: 5px;
     }
     .right-section {
       flex: 3;
@@ -30,24 +37,25 @@
     }
     li {
       list-style: none;
-      margin-bottom: 5px;
+      margin-bottom: 10px;
     }
   </style>
 </head>
 <body>
-  <div style="display: flex;">
-    <div style="flex: 1; padding: 20px; background-color: #f5f5f5;">
-      <img src="assets/img/profile.png" alt="Profile Picture" width="100" style="border-radius: 50%;">
-      <h2>Saeed Shakuri</h2>
+  <div class="container">
+    <div class="left-section">
+      <img class="profile-picture" src="assets/img/profile.png" alt="Profile Picture">
+      <h2>Your Name</h2>
       
       <!-- Social Media Links -->
-    <a href="https://www.linkedin.com/in/saeed-shakuri"><i class="fab fa-linkedin"></i></a>
-    <a href="https://github.com/SaeedShakuri"><i class="fab fa-github"></i></a>
-    <a href="mailto:saeed.shakuri.m@gmail.com"><i class="far fa-envelope"></i></a>
-    <a href="[https://yourwebsite.com](http://usc.ac.ir/en)"><i class="fas fa-globe"></i></a>
+      <a href="https://www.linkedin.com/in/saeed-shakuri"><i class="fab fa-linkedin"></i></a>
+      <a href="https://github.com/SaeedShakuri"><i class="fab fa-github"></i></a>
+      <a href="mailto:saeed.shakuri.m@gmail.com"><i class="far fa-envelope"></i></a>
+      <a href="[https://yourwebsite.com](http://usc.ac.ir/en)"><i class="fas fa-globe"></i></a>
     </div>
-    <div style="flex: 3; padding: 20px;">
-
+    <div class="right-section">
+      <h1>Welcome to My Website</h1>
+      
       <h2>Overview</h2>
       <p>
         I am a master’s student at the University of Science and Culture, majoring in Data Science. I am interested in doing research on the cutting-edge applications of Deep Learning, particularly in Computer Vision, and I'm currently working on Few-Shot object detection for my thesis. Also, I am collaborating with a group of researchers on an article titled 'Real-time facial emotion recognition with EfficientNetV2' which by a thorough contribution to preparing and writing the article, it allowed me to build a deep understanding of the context.
