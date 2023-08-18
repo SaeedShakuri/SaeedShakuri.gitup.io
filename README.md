@@ -37,12 +37,10 @@
         </li>
         <li style="margin-bottom: 15px;"><strong>Technical and Vocational University, Tehran, Iran</strong><br>
           B.Sc., Electronics engineering (Shamsipour college)&nbsp;&nbsp;&nbsp;&nbsp;<strong>2018 - 2021</strong>
-        </li style="margin-bottom: 15px;">
+        </li>
         <li><strong>Alborz Technical and Vocational University, Karaj, Iran</strong><br>
           A.S., Electronics engineering (Beheshti College)&nbsp;&nbsp;&nbsp;&nbsp;<strong>2016 - 2018</strong>
-        </li>
-      </ul>
-      
+        </li>      
       <h2>Publications</h2>
       <ul>
         <li>Real-time Facial Emotion Recognition with EfficientNetV2 (In preparation)</li>
@@ -107,7 +105,3 @@
           May. 2020 - Oct. 2020<br>
         </li>
       </ul>
-    </div>
-  </div>
-</body>
-</html>
