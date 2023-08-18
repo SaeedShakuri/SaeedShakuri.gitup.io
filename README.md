@@ -70,8 +70,8 @@
       <h2>Teaching Experience</h2>
       <p>
         <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
-        University of Science and Culture<br>
-        Fall 2023
+        University of Science and Culture<be>
+        <strong> Fall 2023 </strong> 
       </p>
       
       <h2>Professional Services</h2>
