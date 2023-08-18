@@ -6,7 +6,7 @@
   <div style="display: flex;">
     <div style="flex: 1; padding: 20px; background-color: #f5f5f5;">
       <img src="assets/img/profile.png" alt="Profile Picture" width="100" style="border-radius: 50%;">
-      <h2>Your Name</h2>
+      <h2>Saeed Shakuri</h2>
       
       <!-- Social Media Links -->
       <a href="https://www.linkedin.com/in/saeed-shakuri"><i class="fab fa-linkedin"></i></a>
