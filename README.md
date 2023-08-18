@@ -18,7 +18,7 @@
 
       <h2>About me</h2>
       <p>
-        I am a master’s student under the supervision of <a href="[link-to-dr-rezvanian-profile](http://rezvanian.usc.ac.ir/)">Dr. Alireza Rezvanian</a> at the University of Science and Culture (USC), majoring in Data Science. I am extremely enthusiastic about conducting research at the forefront of Deep Learning methods, particularly in Computer Vision, and I'm currently working on Few-Shot object detection for my thesis. Also, I am currently collaborating on an article titled 'Real-time facial emotion recognition with EfficientNetV2'.
+        I am a master’s student under the supervision of <a href="[link-to-dr-rezvanian-profile](http://rezvanian.usc.ac.ir/)">Dr. Alireza Rezvanian</a> at the University of Science and Culture (USC), majoring in Data Science. I am extremely enthusiastic about doing research at the forefront of Deep Learning methods, particularly in Computer Vision, and I'm currently working on Few-Shot object detection for my thesis. Also, I am currently collaborating on an article titled 'Real-time facial emotion recognition with EfficientNetV2'.
       </p>
       <h4>Research interests:</h4>
       <p>
