@@ -1,119 +1,110 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-<div style="display: flex;">
-  <div style="flex: 1; padding: 20px; background-color: #f5f5f5;">
-    <img src="assets/img/profile.png" alt="Profile Picture" width="100" style="border-radius: 50%;">
-    <h2>Your Name</h2>
-    
-    <!-- Social Media Links -->
-    <a href="https://www.linkedin.com/in/saeed-shakuri"><i class="fab fa-linkedin"></i></a>
-    <a href="https://github.com/SaeedShakuri"><i class="fab fa-github"></i></a>
-    <a href="mailto:saeed.shakuri.m@gmail.com"><i class="far fa-envelope"></i></a>
-    <a href="[https://yourwebsite.com](http://usc.ac.ir/en)"><i class="fas fa-globe"></i></a>
-  </div>
-  <div style="flex: 3; padding: 20px;">
-    <h1>Welcome to My Website</h1>
-    
-    # Overview
-    I am a master's student at the University of Science and Culture, majoring in Data Science. I am interested in doing research on the cutting-edge applications of Deep Learning, particularly in Computer Vision, and I'm currently working on Few-Shot object detection for my thesis. Also, I am collaborating with a group of researchers on an article titled 'Real-time facial emotion recognition with EfficientNetV2' which by a thorough contribution to preparing and writing the article, it allowed me to build a deep understanding of the context.
-    
-    # Education
-    
-    | **University of Science and Culture, Tehran, Iran** | **Oct. 2021 - Present** |
-    | MS.c., Data Science | Advisor: [Dr. Alireza Rezavanian](http://rezvanian.usc.ac.ir/) |
-    | Thesis: Object detection with Few-Shot Learning | GPA: 3.87 |
-    
-    | **Technical and Vocational University, Tehran, Iran** | **2018 - 2021** |
-    | B.Sc., Electronics engineering (Shamsipour college) |
-    
-    | **Alborz Technical and Vocational University, Karaj, Iran** | **2016 - 2018** |
-    | A.S., Electronics engineering (Beheshti College) |
-    
-    # Publications
-    
-    - Real-time Facial Emotion Recognition with EfficientNetV2 (In preparation)
-    
-    # Skills
-    
-    Programming Languages/Environments/Technologies:
-    
-    - Python, Deep Learning, Machine Learning, Google Colaboratory, VScode, Android studio, C, Flutter, Dart
-    
-    # Notable Projects
-    
-    - [A classification model using Ensemble Learning with Abalone dataset](https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning)
-      - Language: Python, Environment: Google Colaboratory
-    
-    - [A Transfer Learning method using ResNet50](https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning)
-      - Language: Python, Environment: Google Colaboratory
-    
-    - [Filters and feature maps visualization of ResNet50](https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50)
-      - Language: Python, Environment: Google Colaboratory
-    
-    - [A classification model with a neural network and CIFAR-10 dataset](https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10)
-      - Language: Python, Environment: Google Colaboratory
-    
-    # Teaching Experience
-    
-    - Teaching Assistant, Graduate Machine Learning course
-      - University of Science and Culture
-      - Fall 2023
-      
-    # Professional Services
-    
-    - Judge
-      - University of Science and Culture
-      - Jul. 2023
-      - Conducting assessments of computer science bachelor students' final projects, followed by assigning grades.
-    
-    - Reviewer
-      - Elsevier - Data in Brief Journal
-      - Mar. 2023 - Apr. 2023
-    
-    - Presenter
-      - University of Science and Culture
-      - Dec. 2022
-      - Presentation title: "An Introduction to Few-Shot Learning".
-    
-    # Courses
-    
-    - Natural Language Processing
-      - University of Science and Culture
-      - Spring 2023
-      
-    - Computer Vision
-      - University of Science and Culture
-      - Fall 2022
-      
-    - Neural Networks
-      - University of Science and Culture
-      - Spring 2022
-      
-    - Machine Learning
-      - University of Science and Culture
-      - Spring 2022
-      
-    - Data Science Mathematics
-      - University of Science and Culture
-      - Fall 2021
-      
-    - Advanced Algorithms
-      - University of Science and Culture
-      - Fall 2021
-    
-    # Work Experience
-    
-    - BlazingFallApps, remotely
-      - Software Developer
-      - Mar. 2020 - Nov. 2021
-      - Responsibilities:
-        - Developing various mobile applications with the Flutter framework
-    
-    - PergasTeb, remotely
-      - Software Developer
-      - May. 2020 - Oct. 2020
-      - Responsibilities:
-        - Developing a medical android application with the Flutter framework
-    
-  </div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kyle J Shanks - Jr Front-End Developer</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <style>
+        /* MIXINS */
+        /*Dummy Variable*/
+        $x = false;
+        /* The top, left, right, and bottom are optional */
+        @mixin setup($display, $position, $margin, $top: null, $right: null, $bottom: null, $left: null) {
+            display: $display;
+            position: $position;
+            margin: $margin;
+            top: $top;
+            right: $right;
+            bottom: $bottom;
+            left: $left;
+        }
+        
+        @mixin font($font-family, $font-size, $letter-spacing, $font-weight, $line-height: 1) {
+            font-family: $font-family;
+            font-size: $font-size;
+            letter-spacing: $letter-spacing;
+            font-weight: $font-weight;
+            line-height: $line-height;
+        }
+        
+        /* GENERAL FONTS AND CLASSES AND SETUP STUFF */
+        * {
+            box-sizing: border-box;
+            transition: 0.35s ease;
+        }
+        
+        .rela-block {
+            @include setup(block, relative, auto);
+        }
+        
+        .rela-inline {
+            @include setup(inline-block, relative, auto);
+        }
+        
+        .floated {
+            @include setup(inline-block, relative, $x);
+            float: left;
+        }
+        
+        .abs-center {
+            @include setup($x, absolute, $x, 50%, $x, $x, 50%);
+            transform: translate(-50%, -50%);
+            text-align: center;
+            width: 88%;
+        }
+        
+        /* --- COLORS --- */
+        
+        /* --- PAGE STYLINGS --- */
+        body {
+            @include font('Open Sans', 18px, 0px, 400, 28px);
+            background: url('http://kingofwallpapers.com/leaves/leaves-016.jpg') right no-repeat;
+            background-size: cover;
+        }
+        
+        body:before {
+            content: "";
+            @include setup($x, fixed, 0, 0, 0, 0, 0);
+            background-color: rgba(255, 255, 255, 0.92);
+        }
+        
+        .caps {
+            text-transform: uppercase;
+        }
+        
+        .justified {
+            text-align: justify;
+        }
+        
+        p.light {
+            color: #777;
+        }
+        
+        h2 {
+            @include font('Open Sans', 30px, 5px, 600, 40px);
+            color: black;
+        }
+        
+        h3 {
+            @include font('Open Sans', 21px, 1px, 600, 28px);
+            color: black;
+        }
+        
+        /* ... (rest of the CSS) ... */
+    </style>
+</head>
+<body>
+    <div class="rela-block page">
+        <div class="rela-block top-bar">
+            <div class="caps name"><div class="abs-center">Kyle J Shanks</div></div>
+        </div>
+        <div class="side-bar">
+            <!-- ... (rest of the HTML content) ... -->
+        </div>
+        <div class="rela-block content-container">
+            <!-- ... (rest of the HTML content) ... -->
+        </div>
+    </div>
+</body>
+</html>
