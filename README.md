@@ -5,8 +5,8 @@
 <body>
   <div style="display: flex;">
     <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 200px;">
-      <img src="assets/img/profile.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
-      <h2>Saeed Shakuri</h2>
+      <img src="assets/img/profile.png" alt="Profile Picture" width="170" style="border-radius: 50%;">
+      <h1>Saeed Shakuri</h1>
       
       <!-- Social Media Links -->
       <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
@@ -31,15 +31,15 @@
       
       <h2>Education</h2>
       <ul>
-        <li style="margin-bottom: 10px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science &nbsp;&nbsp;-&nbsp;&nbsp; Oct. 2021 - Present<br>
+        <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
+          MS.c., Data Science&nbsp;&nbsp;&nbsp;&nbsp;<strong>Oct. 2021 - Present</strong><br>
           Thesis: Object detection with Few-Shot Learning<br>
         </li>
-        <li style="margin-bottom: 10px;"><strong>Technical and Vocational University, Tehran, Iran</strong><br>
-          B.Sc., Electronics engineering (Shamsipour college)&nbsp;&nbsp; - &nbsp;&nbsp;2018 - 2021
-        </li style="margin-bottom: 10px;">
+        <li style="margin-bottom: 15px;"><strong>Technical and Vocational University, Tehran, Iran</strong><br>
+          B.Sc., Electronics engineering (Shamsipour college)&nbsp;&nbsp;&nbsp;&nbsp;<strong>2018 - 2021</strong>
+        </li style="margin-bottom: 15px;">
         <li><strong>Alborz Technical and Vocational University, Karaj, Iran</strong><br>
-          A.S., Electronics engineering (Beheshti College)&nbsp;&nbsp; - &nbsp;&nbsp;2016 - 2018
+          A.S., Electronics engineering (Beheshti College)&nbsp;&nbsp;&nbsp;&nbsp;<strong>2016 - 2018</strong>
         </li>
       </ul>
       
@@ -55,16 +55,16 @@
       
       <h2>Notable Projects</h2>
       <ul>
-        <li style="margin-bottom: 10px;"><strong>A classification model using Ensemble Learning with Abalone dataset</strong>
+        <li style="margin-bottom: 10px;">A classification model using Ensemble Learning with Abalone dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
         </li>
-        <li style="margin-bottom: 10px;"><strong>A Transfer Learning method using ResNet50</strong>
+        <li style="margin-bottom: 10px;">A Transfer Learning method using ResNet50
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
         </li>
-        <li style="margin-bottom: 10px;"><strong>Filters and feature maps visualization of ResNet50</strong>
+        <li style="margin-bottom: 10px;">Filters and feature maps visualization of ResNet50
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50">GitHub</a>
         </li>
-        <li><strong>A classification model with a neural network and CIFAR-10 dataset</strong>
+        <li>A classification model with a neural network and CIFAR-10 dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
         </li>
       </ul>
@@ -98,15 +98,13 @@
       <ul>
         <li style="margin-bottom: 10px;"><strong>BlazingFallApps, remotely</strong><br>
           Software Developer<br>
+          Developing various mobile applications with the Flutter framework<br>
           Mar. 2020 - Nov. 2021<br>
-          Responsibilities:<br>
-          Developing various mobile applications with the Flutter framework
         </li>
         <li style="margin-bottom: 10px;"><strong>PergasTeb, remotely</strong><br>
           Software Developer<br>
+          Developing a medical android application with the Flutter framework<br>
           May. 2020 - Oct. 2020<br>
-          Responsibilities:<br>
-          Developing a medical android application with the Flutter framework
         </li>
       </ul>
     </div>
