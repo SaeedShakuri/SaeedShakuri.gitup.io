@@ -22,11 +22,11 @@
       </p>
       <h4>Research interests:</h4>
       <p>
-          Deep Learning
-          Machine Learning
-          Object detection
-          Few-Shot Learning
-          Transformers
+          Deep Learning,
+          Machine Learning,
+          Object detection,
+          Few-Shot Learning,
+          Transformers,
       </p>
       
       <h2>Education</h2>
