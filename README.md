@@ -32,14 +32,14 @@
       <h2>Education</h2>
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science <strong style="margin-left: 225px;">Oct. 2021 - Present</strong><br>
+          MS.c., Data Science <strong style="margin-left: 230px;">Oct. 2021 - Present</strong><br>
           Thesis: Object detection with Few-Shot Learning<br>
         </li>
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
           B.Sc., Electronics engineering (Shamsipour college) <strong style="margin-left: 10px;"> 2018 - 2021</strong>
         </li>
         <li><strong>Alborz Technical and Vocational University, Karaj, Iran</strong><br>
-          A.S., Electronics engineering (Beheshti College) <strong style="margin-left: 40px;">2016 - 2018</strong>
+          A.S., Electronics engineering (Beheshti College) <strong style="margin-left: 35px;">2016 - 2018</strong>
         </li>      
       <h2>Publications</h2>
       <ul>
