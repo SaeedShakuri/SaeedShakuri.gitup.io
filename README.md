@@ -9,7 +9,7 @@
       <h2>Saeed Shakuri</h2>
       
       <!-- Social Media Links -->
-      <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;"><i class="fab fa-linkedin"></i></a>
       <a href="https://github.com/SaeedShakuri" style="margin: 5px;"><i class="fab fa-github"></i></a>
       <a href="mailto:saeed.shakuri.m@gmail.com" style="margin: 5px;"><i class="far fa-envelope"></i></a>
       <a href="http://usc.ac.ir/en" style="margin: 5px;"><i class="fas fa-globe"></i></a>
@@ -72,7 +72,7 @@
         <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
         University of Science and Culture<be> 
 
-        <strong> Fall 2023 </strong> 
+        <strong style="margin-left: 10px;"> Fall 2023 </strong> 
       
       <h2>Professional Services</h2>
       <ul>
