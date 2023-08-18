@@ -91,4 +91,57 @@
           Elsevier - Data in Brief Journal<br>
           Mar. 2023 - Apr. 2023
         </li>
-        <li
+        <li><strong>Presenter</strong><br>
+          University of Science and Culture<br>
+          Dec. 2022<br>
+          Presentation title: ”An Introduction to Few-Shot Learning”.
+        </li>
+      </ul>
+      
+      <h2>Courses</h2>
+      <ul>
+        <li><strong>Natural Language Processing</strong><br>
+          University of Science and Culture<br>
+          Spring 2023
+        </li>
+        <li><strong>Computer Vision</strong><br>
+          University of Science and Culture<br>
+          Fall 2022
+        </li>
+        <li><strong>Neural Networks</strong><br>
+          University of Science and Culture<br>
+          Spring 2022
+        </li>
+        <li><strong>Machine Learning</strong><br>
+          University of Science and Culture<br>
+          Spring 2022
+        </li>
+        <li><strong>Data Science Mathematics</strong><br>
+          University of Science and Culture<br>
+          Fall 2021
+        </li>
+        <li><strong>Advanced Algorithms</strong><br>
+          University of Science and Culture<br>
+          Fall 2021
+        </li>
+      </ul>
+      
+      <h2>Work Experience</h2>
+      <ul>
+        <li><strong>BlazingFallApps, remotely</strong><br>
+          Software Developer<br>
+          Mar. 2020 - Nov. 2021<br>
+          Responsibilities:<br>
+          Developing various mobile applications with the Flutter framework
+        </li>
+        <li><strong>PergasTeb, remotely</strong><br>
+          Software Developer<br>
+          May. 2020 - Oct. 2020<br>
+          Responsibilities:<br>
+          Developing a medical android application with the Flutter framework
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
