@@ -32,7 +32,7 @@
       <h2>Education</h2>
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science <strong style="margin-left: 230px;">Oct. 2021 - Present</strong><br>
+          MS.c., Data Science <strong style="margin-left: 228px;">Oct. 2021 - Present</strong><br>
           Thesis: Object detection with Few-Shot Learning<br>
         </li>
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
