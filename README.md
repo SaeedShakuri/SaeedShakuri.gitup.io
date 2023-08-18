@@ -4,7 +4,7 @@
 </head>
 <body>
   <div style="display: flex;">
-    <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 140px;">
+    <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 145px;">
       <img src="assets/img/profile.png" alt="Profile Picture" width="130" style="border-radius: 50%;">
       <h2>Saeed Shakuri</h2>
       
