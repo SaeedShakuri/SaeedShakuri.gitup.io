@@ -5,8 +5,8 @@
 <body>
   <div style="display: flex;">
     <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 200px;">
-      <img src="assets/img/profile.png" alt="Profile Picture" width="170" style="border-radius: 50%;">
-      <h1>Saeed Shakuri</h1>
+      <img src="assets/img/profile.png" alt="Profile Picture" width="130" style="border-radius: 50%;">
+      <h2>Saeed Shakuri</h2>
       
       <!-- Social Media Links -->
       <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
