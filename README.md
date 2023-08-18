@@ -14,6 +14,7 @@
       <a href="mailto:saeed.shakuri.m@gmail.com"><i class="far fa-envelope"></i></a>
       <a href="[https://yourwebsite.com](http://usc.ac.ir/en)"><i class="fas fa-globe"></i></a>
     </div>
+    <div style="flex: 3; padding: 20px;">
 
       <h2>Overview</h2>
       <p>
