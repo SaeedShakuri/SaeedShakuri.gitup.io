@@ -65,6 +65,9 @@
         <li>A classification model with a neural network and CIFAR-10 dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
         </li>
+        <li>Measuring sentence similarity with a TF-IDF approach
+          <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
+        </li>
       </ul>
       
       <h2>Teaching Experience</h2>
