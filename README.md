@@ -4,15 +4,15 @@
 </head>
 <body>
   <div style="display: flex;">
-    <div style="flex: 1; padding: 20px; background-color: #f5f5f5;">
-      <img src="assets/img/profile.png" alt="Profile Picture" width="100" style="border-radius: 50%;">
+    <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 200px;">
+      <img src="assets/img/profile.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
       <h2>Saeed Shakuri</h2>
       
       <!-- Social Media Links -->
-      <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 10px;" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
-      <a href="https://github.com/SaeedShakuri" style="margin: 10px;"><i class="fab fa-github"></i></a>
-      <a href="mailto:saeed.shakuri.m@gmail.com" style="margin: 10px;"><i class="far fa-envelope"></i></a>
-      <a href="http://usc.ac.ir/en" style="margin: 10px;"><i class="fas fa-globe"></i></a>
+      <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;" style="margin-left: 10px;"><i class="fab fa-linkedin"></i></a>
+      <a href="https://github.com/SaeedShakuri" style="margin: 5px;"><i class="fab fa-github"></i></a>
+      <a href="mailto:saeed.shakuri.m@gmail.com" style="margin: 5px;"><i class="far fa-envelope"></i></a>
+      <a href="http://usc.ac.ir/en" style="margin: 5px;"><i class="fas fa-globe"></i></a>
     </div>
     <div style="flex: 3; padding: 20px;">
 
