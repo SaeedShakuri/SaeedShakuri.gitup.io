@@ -55,9 +55,9 @@
         <li>Real-time Facial Emotion Recognition with EfficientNetV2 (In preparation)</li>
       </ul>
       
-      <h2>Skills</h2>
+      <h2>Skills, Programming Languages, Technologies,...</h2>
       <p>
-        Programming Languages/Environments/Technologies: Python, Deep Learning, Machine Learning, Google Colaboratory, VScode, Android studio, C, Flutter, Dart
+        Python, Deep Learning, Machine Learning, Google Colaboratory, VScode, Android studio, C, Flutter, Dart
       </p>
       
       <h2>Notable Projects</h2>
