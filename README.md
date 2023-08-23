@@ -25,6 +25,8 @@
     </div>
     <div style="flex: 3; padding: 20px;">
 
+<! ---------------------------------------------------------------------------------------------------------->
+
       <h2>About me</h2>
       <p>
         I am a master’s student under the supervision of <a href="[link-to-dr-rezvanian-profile](http://rezvanian.usc.ac.ir/)">Dr. Alireza Rezvanian</a> at the University of Science and Culture (USC), majoring in Data Science. I am extremely enthusiastic about doing research at the forefront of various Deep Learning domains, with a little more focus on Computer Vision, and I'm working on Few-Shot object detection for my thesis. Also, I am currently collaborating on an article titled 'Real-time facial emotion recognition with EfficientNetV2'. <strong>Starting spring 2024, I’m actively looking for Ph.D. positions in the Deep Learning context with some emphasis on Computer Vision.</strong>
@@ -38,6 +40,8 @@
           Transformers
       </p>
       
+<! ---------------------------------------------------------------------------------------------------------->
+
       <h2>Education</h2>
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
@@ -49,7 +53,10 @@
         </li>
         <li><strong>Alborz Technical and Vocational University, Karaj, Iran</strong><br>
           A.S., Electronics engineering (Beheshti College) <strong style="margin-left: 35px;">2016 - 2018</strong>
-        </li>      
+        </li>
+        </ul>
+<! ---------------------------------------------------------------------------------------------------------->
+        
       <h2>Publications</h2>
       <ul>
         <li>Real-time Facial Emotion Recognition with EfficientNetV2 (In preparation)</li>
@@ -59,7 +66,9 @@
       <p>
         Python, Deep Learning, Machine Learning, Google Colaboratory, VScode, Android studio, C, Flutter, Dart
       </p>
-      
+
+<! ---------------------------------------------------------------------------------------------------------->
+
       <h2>Notable Projects</h2>
       <ul>
         <li style="margin-bottom: 10px;">A classification model using Ensemble Learning with Abalone dataset
@@ -71,21 +80,25 @@
         <li style="margin-bottom: 10px;">Filters and feature maps visualization of ResNet50
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50">GitHub</a>
         </li>
-        <li>A classification model with a neural network and CIFAR-10 dataset
+        <li style="margin-bottom: 10px;">A classification model with a neural network and CIFAR-10 dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
         </li>
-        <li>Measuring sentence similarity with a TF-IDF approach
+        <li style="margin-bottom: 10px;">Measuring sentence similarity with a TF-IDF approach
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
         </li>
       </ul>
-      
+
+<! ---------------------------------------------------------------------------------------------------------->
+
       <h2>Teaching Experience</h2>
       <p>
         <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
         University of Science and Culture<be> 
 
         <strong style="margin-left: 10px;"> Fall 2023 </strong> 
-      
+
+<! ---------------------------------------------------------------------------------------------------------->
+
       <h2>Professional Services</h2>
       <ul>
         <li style="margin-bottom: 10px;"><strong>Judge</strong><br>
@@ -103,7 +116,9 @@
           Presentation title: ”An Introduction to Few-Shot Learning”.
         </li>
       </ul>
-      
+
+<! ---------------------------------------------------------------------------------------------------------->
+
       <h2>Work Experience</h2>
       <ul>
         <li style="margin-bottom: 10px;"><strong>BlazingFallApps, remotely</strong><br>
