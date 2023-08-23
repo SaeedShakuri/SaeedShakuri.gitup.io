@@ -14,7 +14,7 @@
 <body>
   <div style="display: flex;">
     <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 160px;">
-      <img src="assets/img/20220907_100257-fotor-2023081816913.png" alt="Profile Picture" width="135" style="border-radius: 50%;">
+      <img src="assets/img/Profile2.png" alt="Profile Picture" width="135" style="border-radius: 50%;">
       <h2>Saeed Shakuri</h2>
       
       <!-- Social Media Links -->
