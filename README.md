@@ -110,10 +110,15 @@
           Jul. 2023<br>
           Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
         </li>
+
         <li style="margin-bottom: 10px;"><strong>Reviewer</strong><br>
+          Wiley - The Journal of Engineering<br>
+           Aug. 2023<br><br>
+
           Elsevier - Data in Brief Journal<br>
-          Mar. 2023 - Apr. 2023
+           Mar. 2023 - Apr. 2023
         </li>
+
         <li style="margin-bottom: 10px;"><strong>Presenter</strong><br>
           University of Science and Culture<br>
           Dec. 2022<br>
