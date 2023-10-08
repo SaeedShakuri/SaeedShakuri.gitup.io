@@ -41,7 +41,7 @@
       <h2 style="padding-top: 15px;">Education</h2>
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science <strong style="margin-left: 195px;">Oct. 2021 - Present</strong><br>
+          MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Present</strong><br>
           Thesis: Object detection with Few-Shot Learning<br>
         </li>
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
@@ -72,13 +72,13 @@
     <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong><br>
     University of Science and Culture<be> 
     <strong style="margin-left: 10px;"> Fall 2023 </strong>
-</div>
+
 
 <div style="padding-top: 10px;">
     <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
     University of Science and Culture<be> 
     <strong style="margin-left: 10px;"> Fall 2022 </strong>
-</div>
+
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
