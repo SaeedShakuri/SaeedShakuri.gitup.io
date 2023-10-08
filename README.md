@@ -72,13 +72,13 @@
     <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong><br>
     University of Science and Culture<be> 
     <strong style="margin-left: 10px;"> Fall 2023 </strong>
-
+</div>
 
 <div style="padding-top: 10px;">
     <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
     University of Science and Culture<be> 
     <strong style="margin-left: 10px;"> Fall 2022 </strong>
-
+</div>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
