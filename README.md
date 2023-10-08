@@ -10,7 +10,7 @@
       
       <!-- Social Media Links -->
         <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;"><i class="fab fa-linkedin"></i></a>
-        <a href="https://githu.com/SaeedShakuri" style="margin: 5px;"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/SaeedShakuri" style="margin: 5px;"><i class="fab fa-github"></i></a>
         <a href="mailto:saeed.shakuri.m@gmail.com" style="margin: 5px;"><i class="far fa-envelope"></i></a>
         <a href="https://www.researchgate.net/profile/Saeed-Shakuri-2" style="margin: 5px;"><i class="fas fa-globe"></i></a>
     </div>
