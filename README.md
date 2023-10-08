@@ -116,7 +116,7 @@
         <li style="margin-bottom: 10px;">A classification model using Ensemble Learning with Abalone dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
         </li>
-        <li style="margin-bottom: 10px;">A Transfer Learning method using ResNet50
+        <li style="margin-bottom: 10px;">A Transfer Learning method using ResNet50 for image classification
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
         </li>
         <li style="margin-bottom: 10px;">Filters and feature maps visualization of ResNet50
