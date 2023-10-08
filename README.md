@@ -55,23 +55,14 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
     <h2 style="padding-top: 15px;">Publications</h2>
-    <table>
-        <tr>
-            <td>
-                - (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
-                <strong>"<a href="your_link_here" target="_blank">Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware
-                    training</a>"</strong>, Neural Computing and Applications, Springer.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <div style="padding-top: 10px;">
-                    - (In preparation - Master's thesis) <strong>Saeed Shakuri</strong>, Alireza Rezvanian,
-                    <strong>"Few-Shot object detection using vision transformer"</strong>.
-                </div>
-            </td>
-        </tr>
-    </table>
+    - (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
+    <strong>"<a href="your_link_here" target="_blank">Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training</a>"</strong>, Neural Computing and Applications, Springer.
+    
+    <div style="padding-top: 10px;">
+        - (In preparation - Master's thesis) <strong>Saeed Shakuri</strong>, Alireza Rezvanian,
+        <strong>"Few-Shot object detection using vision transformer"</strong>.
+    </div>
+
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
