@@ -72,13 +72,13 @@
     <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong><br>
     University of Science and Culture<be> 
     <strong style="margin-left: 10px;"> Fall 2023 </strong>
-</div>
+
 
 <div style="padding-top: 10px;">
     <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
     University of Science and Culture<be> 
     <strong style="margin-left: 10px;"> Fall 2022 </strong>
-</div>
+
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
@@ -132,20 +132,19 @@
           University of Science and Culture<be> 
           <strong style="margin-left: 10px;"> Jul. 2023  </strong> <br>
           Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
-        </li>
+    
 
         <li style="margin-bottom: 10px;"><strong>Reviewer</strong><br>
           Wiley - The Journal of Engineering<be> 
            <strong style="margin-left: 10px;"> Aug. 2023 </strong><br>
           Elsevier - Data in Brief Journal<be> 
            <strong style="margin-left: 10px;"> Mar. 2023 - Apr. 2023 </strong>
-        </li>
+      
 
         <li style="margin-bottom: 10px;"><strong>Presenter</strong><br>
           University of Science and Culture<be> 
           <strong style="margin-left: 10px;"> Dec. 2022 </strong><br>
           Presentation title: ”<a href="https://www.researchgate.net/publication/372553317_An_Introduction_to_Few-Shot_Learning_-_Saeed_Shakuri">An Introduction to Few-Shot Learning</a>”.
-        </li>
       </ul>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
