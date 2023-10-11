@@ -42,7 +42,7 @@
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
           MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Present</strong><br>
-          Thesis: Object detection with Few-Shot Learning<br>
+          Thesis: Object detection with Few-Shot Learning and Vision Transformers<br>
         </li>
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
           B.Sc., Electronics engineering (Shamsipour college) <strong style="margin-left: 10px;"> 2018 - 2021</strong>
