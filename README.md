@@ -47,7 +47,7 @@
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
           B.Sc., Electronics engineering (Shamsipour college) <strong style="margin-left: 10px;"> 2018 - 2021</strong>
         </li>
-        <li><strong>Alborz Technical and Vocational University, Karaj, Iran</strong><br>
+        <li><strong>Technical and Vocational University, Karaj, Iran</strong><br>
           A.S., Electronics engineering (Beheshti College) <strong style="margin-left: 35px;">2016 - 2018</strong>
         </li>
         </ul>
