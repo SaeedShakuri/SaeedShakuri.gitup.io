@@ -151,19 +151,19 @@
 
 
 
-    <h2 style="padding-top: 15px;">Work Experience</h2>
-    <ul>
-    <li style="margin-bottom: 10px;"><strong>BlazingFallApps, remotely</strong><br>
-      Software Developer<br>
-      Developing various mobile applications with the Flutter framework<br>
-      Mar. 2020 - Nov. 2021<br>
-    </li>
-    <li style="margin-bottom: 10px;"><strong>PergasTeb, remotely</strong><br>
-      Software Developer<br>
-      Developing a medical android application with the Flutter framework<br>
-      May. 2020 - Oct. 2020<br>
-    </li>
-    </ul>
+<h2 style="padding-top: 15px;">Work Experience</h2>
+<ul>
+  <li style="margin-bottom: 10px;"><strong>BlazingFallApps, remotely</strong><br>
+    Software Developer<br>
+    Developing various mobile applications with the Flutter framework<br>
+    Mar. 2020 - Nov. 2021<br>
+  </li>
+  <li style="margin-bottom: 10px;"><strong>PergasTeb, remotely</strong><br>
+    Software Developer<br>
+    Developing a medical android application with the Flutter framework<br>
+    May. 2020 - Oct. 2020<br>
+  </li>
+</ul>
       
       
       
