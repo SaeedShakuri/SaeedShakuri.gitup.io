@@ -137,7 +137,7 @@
         <li style="margin-bottom: 10px;"><strong>Reviewer</strong><br>
           Wiley - The Journal of Engineering<be> 
            <strong style="margin-left: 10px;"> Aug. 2023 </strong><br>
-          Elsevier - Data in Brief Journal<be> 
+          Elsevier - Data in Brief Journal<br> 
            <strong style="margin-left: 10px;"> Mar. 2023 - Apr. 2023 </strong>
       
 
