@@ -144,7 +144,7 @@
         <li style="margin-bottom: 10px;"><strong>Presenter</strong><br>
           University of Science and Culture<be> 
           <strong style="margin-left: 10px;"> Dec. 2022 </strong><br>
-          Presentation title: ”<a href="https://www.researchgate.net/publication/372553317_An_Introduction_to_Few-Shot_Learning_-_Saeed_Shakuri">An Introduction to Few-Shot Learning</a>”.
+          Presentation title: ”<a href="https://www.researchgate.net/publication/372553317_An_Introduction_to_Few-Shot_Learning_-_Saeed_Shakuri">An Introduction to Few-Shot Learning</a>”
     </ul>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
