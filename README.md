@@ -160,7 +160,6 @@
       Developing a medical android application with the Flutter framework<br>
       May. 2020 - Oct. 2020<br>
     </li>
-    </ul>
       
       
       
