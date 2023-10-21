@@ -28,7 +28,7 @@
         </p>
         <ul style="margin-top: 8;">
             <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformer.</li>
-            <li style="padding-top: 15px;">I am collaborating on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is anticipated to be submitted to "Neural Computing and Applications" by the end of 2023.</li>
+            <li style="padding-top: 15px;">I collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is anticipated to be submitted to "Neural Computing and Applications" by the end of 2023.</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
@@ -41,7 +41,7 @@
       <h2 style="padding-top: 15px;">Education</h2>
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Expected July 2023</strong><br>
+          MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Expected June 2023</strong><br>
           Thesis: Object detection with Few-Shot Learning and Vision Transformers<br>
         </li>
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
