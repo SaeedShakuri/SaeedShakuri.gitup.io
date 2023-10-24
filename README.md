@@ -38,46 +38,96 @@
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
-      <h2 style="padding-top: 15px;">Education</h2>
-      <ul>
-        <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Expected spring 2024</strong><br>
-          Thesis: Object detection with Few-Shot Learning and Vision Transformers<br>
-        </li>
-        <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
-          B.Sc., Electronics engineering (Shamsipour college) <strong style="margin-left: 10px;"> 2018 - 2021</strong>
-        </li>
-        <li><strong>Technical and Vocational University, Karaj, Iran</strong><br>
-          A.S., Electronics engineering (Beheshti College) <strong style="margin-left: 35px;">2016 - 2018</strong>
-        </li>
-        </ul>
+<h2 style="padding-top: 15px;">Education</h2>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>University of Science and Culture, Tehran, Iran</strong>
+        <br>MS.c., Data Science
+        <br>Thesis: Object detection with Few-Shot Learning and Vision Transformers
+      </div>
+      <div>
+        <strong>Oct. 2021 - Expected spring 2024</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Technical and Vocational University, Tehran, Iran</strong>
+        <br>B.Sc., Electronics Engineering (Shamsipour College)
+      </div>
+      <div>
+        <strong>2018 - 2021</strong>
+      </div>
+    </div>
+  </li>
+
+  <li>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Technical and Vocational University, Karaj, Iran</strong>
+        <br>A.S., Electronics Engineering (Beheshti College)
+      </div>
+      <div>
+        <strong>2016 - 2018</strong>
+      </div>
+    </div>
+  </li>
+</ul>
+
+
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
-    <h2 style="padding-top: 15px;">Publications</h2>
-    - (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
+<h2 style="padding-top: 15px;">Publications</h2>
+<ul>
+  <li style="margin-bottom: 10px;">
+    (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
     <strong>"Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training"</strong>, Neural Computing and Applications, Springer.
-    
-    <div style="padding-top: 10px;">
-        - (In preparation - Master's thesis) <strong>Saeed Shakuri</strong>, Alireza Rezvanian,
-        <strong>"Few-Shot object detection using vision transformer"</strong>.
+  </li>
+  <li style="margin-bottom: 10px;">
+    <div>
+      (In preparation - Master's thesis) <strong>Saeed Shakuri</strong>, Alireza Rezvanian,
+      <strong>"Few-Shot object detection using vision transformer"</strong>.
     </div>
+  </li>
+</ul>
+
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
 <h2 style="padding-top: 15px;">Teaching Experience</h2>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong>
+        <br>University of Science and Culture
+      </div>
+      <div>
+        <strong>Fall 2023</strong>
+      </div>
+    </div>
+  </li>
+  
+  <li>
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Teaching Assistant, Graduate Machine Learning course</strong>
+        <br>University of Science and Culture
+      </div>
+      <div>
+        <strong>Fall 2022</strong>
+      </div>
+    </div>
+  </li>
+</ul>
 
-<div>
-    <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong><br>
-    University of Science and Culture<be> 
-    <strong style="margin-left: 10px;"> Fall 2023 </strong>
 
-
-<div style="padding-top: 10px;">
-    <strong>Teaching Assistant, Graduate Machine Learning course</strong><br>
-    University of Science and Culture<be> 
-    <strong style="margin-left: 10px;"> Fall 2022 </strong>
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -103,7 +153,7 @@
 
 
 <h2 style="padding-top: 15px;">Notable Projects</h2>
-<ul style="list-style: none; padding: 0;">
+<ul>
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
@@ -171,24 +221,59 @@
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
-      <h2 style="padding-top: 15px;">Professional Services</h2>
-      <ul>
-              <li style="margin-bottom: 10px;"><strong>Reviewer</strong><br>
-          Wiley - The Journal of Engineering<be> 
-           <strong style="margin-left: 10px;"> Aug. 2023 </strong><br>
-          Elsevier - Data in Brief Journal<be> 
-           <strong style="margin-left: 10px;"> Mar. 2023 - Apr. 2023 </strong>
-           
-        <li style="margin-bottom: 10px;" ><strong>Judge</strong><br>
-          University of Science and Culture<be> 
-          <strong style="margin-left: 10px;"> Jul. 2023  </strong> <br>
-          Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
-        
+<h2 style="padding-top: 15px;">Professional Services</h2>
+<ul>
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Reviewer</strong>
+        <br>Wiley - The Journal of Engineering
+      </div>
+      <div>
+        <strong>Aug. 2023</strong>
+      </div>
+    </div>
+  </li>
 
-        <li style="margin-bottom: 10px;"><strong>Presenter</strong><br>
-          University of Science and Culture<be> 
-          <strong style="margin-left: 10px;"> Dec. 2022 </strong><br>
-          Presentation title: ”<a href="https://www.researchgate.net/publication/372553317_An_Introduction_to_Few-Shot_Learning_-_Saeed_Shakuri">An Introduction to Few-Shot Learning</a>”
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Reviewer</strong>
+        <br>Elsevier - Data in Brief Journal
+      </div>
+      <div>
+        <strong>Mar. 2023 - Apr. 2023</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Judge</strong>
+        <br>University of Science and Culture
+        <br>Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
+      </div>
+      <div>
+        <strong>Jul. 2023</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Presenter</strong>
+        <br>University of Science and Culture
+        <br>Presentation title: ”<a href="https://www.researchgate.net/publication/372553317_An_Introduction_to_Few-Shot_Learning_-_Saeed_Shakuri">An Introduction to Few-Shot Learning</a>”
+      </div>
+      <div>
+        <strong>Dec. 2022</strong>
+      </div>
+    </div>
+  </li>
+</ul>
+
     
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -197,17 +282,33 @@
 
 <h2 style="padding-top: 15px;">Work Experience</h2>
 <ul>
-  <li style="margin-bottom: 10px;"><strong>BlazingFallApps, remotely</strong><br>
-    Software Developer<br>
-    Developing various mobile applications with the Flutter framework<br>
-    Mar. 2020 - Nov. 2021<br>
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>BlazingFallApps, remotely</strong>
+        <br>Software Developer
+        <br>Developing various mobile applications with the Flutter framework
+      </div>
+      <div>
+        <strong>Mar. 2020 - Nov. 2021</strong>
+      </div>
+    </div>
   </li>
-  <li style="margin-bottom: 10px;"><strong>PergasTeb, remotely</strong><br>
-    Software Developer<br>
-    Developing a medical android application with the Flutter framework<br>
-    May. 2020 - Oct. 2020<br>
+  
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>PergasTeb, remotely</strong>
+        <br>Software Developer
+        <br>Developing a medical android application with the Flutter framework
+      </div>
+      <div>
+        <strong>May 2020 - Oct 2020</strong>
+      </div>
+    </div>
   </li>
 </ul>
+
       
       
       
