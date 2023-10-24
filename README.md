@@ -102,29 +102,69 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
 
-      <h2 style="padding-top: 15px;">Notable Projects</h2>
-      <ul>
-        <li style="margin-bottom: 10px;">Measuring sentence similarity with a TF-IDF approach
-          <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a> 
-        </li>
-        <li style="margin-bottom: 10px;">A classification model using Ensemble Learning with Abalone dataset
-          <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a> 
-        </li>
-        
-        <li style="margin-bottom: 10px;">A Transfer Learning method using ResNet50 for image classification
-          <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a> 
-          </li>
-        
-        <li style="margin-bottom: 10px;">Filters and feature maps visualization of ResNet50
-          <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50">GitHub</a> 
-          </li>
-        
-        <li style="margin-bottom: 10px;">A classification model with a neural network and CIFAR-10 dataset
-          <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a> 
-          </li>
-        
+<h2 style="padding-top: 15px;">Notable Projects</h2>
+<ul style="list-style: none; padding: 0;">
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
+        Measuring sentence similarity with a TF-IDF approach
+        <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
+      </div>
+      <div>
+        <strong> Spring 2023 </strong>
+      </div>
+    </div>
+  </li>
 
-      </ul>
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
+        A classification model using Ensemble Learning with Abalone dataset
+        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
+      </div>
+      <div>
+        <strong> Spring 2022 </strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
+        A Transfer Learning method using ResNet50 for image classification
+        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
+      </div>
+      <div>
+        <strong> Spring 2022 </strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
+        Filters and feature maps visualization of ResNet50
+        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50">GitHub</a>
+      </div>
+      <div>
+        <strong> Spring 2022 </strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
+        A classification model with a neural network and CIFAR-10 dataset
+        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
+      </div>
+      <div>
+        <strong> Spring 2022 </strong>
+      </div>
+    </div>
+  </li>
+</ul>
+
 
 
 
