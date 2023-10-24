@@ -107,23 +107,23 @@
         <li style="margin-bottom: 10px;">Measuring sentence similarity with a TF-IDF approach
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a> <be> 
            <strong style="margin-left: 10px;"> Spring 2023 </strong><br>
-        </li>
+        
         <li style="margin-bottom: 10px;">A classification model using Ensemble Learning with Abalone dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a> <be> 
            <strong style="margin-left: 10px;"> Spring 2022 </strong><br> 
-        </li>
+        
         <li style="margin-bottom: 10px;">A Transfer Learning method using ResNet50 for image classification
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a> <be> 
            <strong style="margin-left: 10px;"> Spring 2022 </strong><br>
-        </li>
+        
         <li style="margin-bottom: 10px;">Filters and feature maps visualization of ResNet50
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50">GitHub</a> <be> 
            <strong style="margin-left: 10px;"> Spring 2022 </strong><br>
-        </li>
+        
         <li style="margin-bottom: 10px;">A classification model with a neural network and CIFAR-10 dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a> <be> 
            <strong style="margin-left: 10px;"> Spring 2022 </strong><br>
-        </li>
+        
 
       </ul>
 
