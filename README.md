@@ -104,6 +104,9 @@
 
       <h2 style="padding-top: 15px;">Notable Projects</h2>
       <ul>
+        <li style="margin-bottom: 10px;">Measuring sentence similarity with a TF-IDF approach
+          <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
+        </li>
         <li style="margin-bottom: 10px;">A classification model using Ensemble Learning with Abalone dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
         </li>
@@ -116,9 +119,7 @@
         <li style="margin-bottom: 10px;">A classification model with a neural network and CIFAR-10 dataset
           <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
         </li>
-        <li style="margin-bottom: 10px;">Measuring sentence similarity with a TF-IDF approach
-          <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
-        </li>
+
       </ul>
 
 
@@ -128,18 +129,17 @@
 
       <h2 style="padding-top: 15px;">Professional Services</h2>
       <ul>
-        <li style="margin-bottom: 10px;" ><strong>Judge</strong><br>
-          University of Science and Culture<be> 
-          <strong style="margin-left: 10px;"> Jul. 2023  </strong> <br>
-          Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
-    
-
-        <li style="margin-bottom: 10px;"><strong>Reviewer</strong><br>
+              <li style="margin-bottom: 10px;"><strong>Reviewer</strong><br>
           Wiley - The Journal of Engineering<be> 
            <strong style="margin-left: 10px;"> Aug. 2023 </strong><br>
           Elsevier - Data in Brief Journal<be> 
            <strong style="margin-left: 10px;"> Mar. 2023 - Apr. 2023 </strong>
-      
+           
+        <li style="margin-bottom: 10px;" ><strong>Judge</strong><br>
+          University of Science and Culture<be> 
+          <strong style="margin-left: 10px;"> Jul. 2023  </strong> <br>
+          Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
+        
 
         <li style="margin-bottom: 10px;"><strong>Presenter</strong><br>
           University of Science and Culture<be> 
