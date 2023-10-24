@@ -41,7 +41,7 @@
       <h2 style="padding-top: 15px;">Education</h2>
       <ul>
         <li style="margin-bottom: 15px;"><strong>University of Science and Culture, Tehran, Iran</strong><br>
-          MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Expected June 2023</strong><br>
+          MS.c., Data Science <strong style="margin-left: 15px;">Oct. 2021 - Expected spring 2024</strong><br>
           Thesis: Object detection with Few-Shot Learning and Vision Transformers<br>
         </li>
         <li style="margin-bottom: 15px;"><strong >Technical and Vocational University, Tehran, Iran</strong><br>
