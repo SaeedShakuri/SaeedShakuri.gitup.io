@@ -152,7 +152,7 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
 
-<h2 style="padding-top: 15px;">Notable Projects</h2>
+<h2 style="padding-top: 15px;">Notable Academic Projects</h2>
 <ul>
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
