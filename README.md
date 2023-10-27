@@ -6,7 +6,7 @@
 <div style="display: flex;">
   <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 170px; text-align: center;">
     <img src="assets/img/profile9.png" alt="Profile Picture" width="155" style="border-radius: 50%;">
-    <h2>Saeed Shakuri</h2>
+    <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
     <div style="margin-top: 20px; text-align: left;">
