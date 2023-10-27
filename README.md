@@ -3,18 +3,20 @@
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'>
 </head>
 <body>
-  <div style="display: flex;">
-    <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 160px;">
-      <img src="assets/img/profile9.png" alt="Profile Picture" width="135" style="border-radius: 50%;">
-      <h2>Saeed Shakuri</h2>
-      
-      <!-- Social Media Links -->
-        <a href="https://www.linkedin.com/in/saeed-shakuri" style="margin: 5px;"><i class="fab fa-linkedin"></i></a>
-        <a href="https://github.com/SaeedShakuri" style="margin: 5px;"><i class="fab fa-github"></i></a>
-        <a href="mailto:saeed.shakuri.m@gmail.com" style="margin: 5px;"><i class="far fa-envelope"></i></a>
-        <a href="https://www.researchgate.net/profile/Saeed-Shakuri-2" style="margin: 5px;"><i class="fas fa-globe"></i></a>
+<div style="display: flex;">
+  <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 160px; text-align: center;">
+    <img src="assets/img/profile9.png" alt="Profile Picture" width="145" style="border-radius: 50%;">
+    <h2>Saeed Shakuri</h2>
+    
+    <!-- Social Media Links -->
+    <div style="margin-top: 20px; text-align: left;">
+      <div style="margin: 5px;"><a href="https://www.linkedin.com/in/saeed-shakuri" style="text-decoration: none; color: blue;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
+      <div style="margin: 5px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none; color: blue;"><i class="fab fa-github"></i> GitHub</a></div>
+      <div style="margin: 5px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none; color: blue;"><i class="far fa-envelope"></i> Email</a></div>
+      <div style="margin: 5px;"><a href="https://www.researchgate.net/profile/Saeed-Shakuri-2" style="text-decoration: none; color: blue;"><i class="fas fa-globe"></i> ResearchGate</a></div>
     </div>
-    <div style="flex: 3; padding: 20px;">
+  </div>
+  <div style="flex: 3; padding: 20px;">
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
