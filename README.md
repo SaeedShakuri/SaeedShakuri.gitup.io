@@ -4,17 +4,17 @@
 </head>
 <body>
 <div style="display: flex;">
-  <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 170px; text-align: center;">
-    <img src="assets/img/profile9.png" alt="Profile Picture" width="155" style="border-radius: 50%;">
+  <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 175px; text-align: center;">
+    <img src="assets/img/profile9.png" alt="Profile Picture" width="160" style="border-radius: 50%;">
     <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
     <div style="margin-top: 20px; text-align: left;">
-      <div style="margin: 5px;"><a href="https://www.linkedin.com/in/saeed-shakuri" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
-      <div style="margin: 5px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
-      <div style="margin: 5px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
+      <div style="margin: 2px;"><a href="https://www.linkedin.com/in/saeed-shakuri" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
+      <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
+      <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
       
-            <div style="margin: 5px;"><a href="https://drive.google.com/file/d/11LiK70_q0MScHAtGYBaLN4mx0EOFYkK7/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
+            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/11LiK70_q0MScHAtGYBaLN4mx0EOFYkK7/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
       
     </div>
   </div>
