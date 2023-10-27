@@ -9,7 +9,7 @@
     <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
-    <div style="margin-top: 20px; text-align: left;">
+    <div style="margin-top: 7px; text-align: left;">
       <div style="margin: 2px;"><a href="https://www.linkedin.com/in/saeed-shakuri" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
       <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
       <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
