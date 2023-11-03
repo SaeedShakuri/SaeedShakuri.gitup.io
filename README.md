@@ -32,7 +32,7 @@
         </p>
         <ul style="margin-top: 8;">
             <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformer.</li>
-            <li style="padding-top: 15px;">I recently collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is anticipated to be submitted to "Neural Computing and Applications" by the end of fall 2023.</li>
+            <li style="padding-top: 15px;">I recently collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is submitted to "Neural Computing and Applications".</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
@@ -89,7 +89,7 @@
 <h2 style="padding-top: 15px;">Publications</h2>
 <ul>
   <li style="margin-bottom: 10px;">
-    (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
+    (Submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
     <strong>"Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training"</strong>, Neural Computing and Applications, Springer.
   </li>
   <li style="margin-bottom: 10px;">
