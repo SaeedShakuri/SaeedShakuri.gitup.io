@@ -148,7 +148,7 @@
         <strong>Technologies/Frameworks:</strong><br> Deep Learning, Machine Learning, Flutter
     </div>
     <div style="padding-top: 15px;">
-        <strong> Academic IELTS (Sep. 2023):</strong><br> <strong>Overall: 7</strong>, Speaking: 7.5, Listening: 7, Writing: 6.5, Reading: 7
+        <strong> IELTS Academic (Taken in Sep. 2023):</strong><br> <strong>Overall: 7</strong>, Speaking: 7.5, Listening: 7, Writing: 6.5, Reading: 7
     </div>
 </section>
 
