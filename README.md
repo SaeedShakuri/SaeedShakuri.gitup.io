@@ -31,7 +31,7 @@
             <strong>Highlight of my research experience</strong>
         </p>
         <ul style="margin-top: 8;">
-            <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformer.</li>
+            <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers.</li>
             <li style="padding-top: 15px;">I recently collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is to be submitted to "Neural Computing and Applications".</li>
         </ul>
     </section>
@@ -95,7 +95,7 @@
   <li style="margin-bottom: 10px;">
     <div>
       (In preparation - Master's thesis) <strong>Saeed Shakuri</strong>, Alireza Rezvanian,
-      <strong>"Few-Shot object detection using vision transformer"</strong>.
+      <strong>"Few-Shot object detection using Vision Transformers"</strong>.
     </div>
   </li>
 </ul>
