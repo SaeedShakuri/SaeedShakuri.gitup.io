@@ -32,7 +32,7 @@
         </p>
         <ul style="margin-top: 8;">
             <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformer.</li>
-            <li style="padding-top: 15px;">I recently collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is submitted to "Neural Computing and Applications".</li>
+            <li style="padding-top: 15px;">I recently collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is to be submitted to "Neural Computing and Applications".</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
