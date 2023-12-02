@@ -14,7 +14,7 @@
       <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
       <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
       
-            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/1sBmbQIZ3VHFV2TrMNLYTXsXxyxoV-gio/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
+            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/1lnVZQ53z8YNEFd3CB8Flr_4itvL3MfCO/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
       
     </div>
   </div>
