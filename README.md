@@ -136,21 +136,7 @@
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
-<section>
-    <h2 style="padding-top: 15px;">Skills</h2>
-    <div>
-        <strong>Programming Languages:</strong><br> Python, Dart, C
-    </div>
-    <div style="padding-top: 15px;">
-        <strong>Environments/Applications:</strong><br> Google Colaboratory, MiniTab, EndNote, Microsoft Office, VS Code, Android Studio
-    </div>
-    <div style="padding-top: 15px;">
-        <strong>Technologies/Frameworks:</strong><br> Deep Learning, Machine Learning, Flutter
-    </div>
-    <div style="padding-top: 15px;">
-        <strong> IELTS Academic (Taken in Sep. 2023):</strong><br> <strong>Overall: 7</strong>, Speaking: 7.5, Listening: 7, Writing: 6.5, Reading: 7
-    </div>
-</section>
+
 
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
