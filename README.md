@@ -89,7 +89,7 @@
 <h2 style="padding-top: 15px;">Publications</h2>
 <ul>
   <li style="margin-bottom: 10px;">
-    (Submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
+    (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
     <strong>"Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training"</strong>, Neural Computing and Applications, Springer.
   </li>
   <li style="margin-bottom: 10px;">
