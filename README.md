@@ -32,7 +32,8 @@
         </p>
         <ul style="margin-top: 8;">
             <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers.</li>
-            <li style="padding-top: 15px;">I recently collaborated on an article titled 'Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training' which is to be submitted to "Neural Computing and Applications".</li>
+            <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
+                quantization-aware training’ </strong> and  <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong>, which are submitted to ”Neural Computing and Applications (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
@@ -89,13 +90,16 @@
 <h2 style="padding-top: 15px;">Publications</h2>
 <ul>
   <li style="margin-bottom: 10px;">
-    (To be submitted) Omid Ghadami, <strong>Saeed Shakuri</strong>, Mohammad Hojjat Shamami, and Alireza Rezvanian,
-    "Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training", Neural Computing and Applications, Springer.
+    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Hojjat Shamami. ”Real-time facial emotion
+recognition in smartphones using EfficientNetV2 and quantization-aware training.” In Neural Computing and Applications, Springer.
+  </li>
+    <li style="margin-bottom: 10px;">
+    <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable real-time emotion recognition using EfficientNetV2 and
+resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
   </li>
   <li style="margin-bottom: 10px;">
     <div>
-      (In preparation - Master's thesis) <strong>Saeed Shakuri</strong>, Alireza Rezvanian,
-      "Few-Shot object detection using Vision Transformers".
+<strong> (In preparation) </strong> <strong>Saeed Shakuri </strong>, Alireza Rezvanian, ”Few-Shot object detection using Vision Transformers”.
     </div>
   </li>
 </ul>
@@ -111,6 +115,7 @@
       <div style="flex: 1;">
         <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong>
         <br>University of Science and Culture
+        <br>Dr. Azadeh Tabatabei
       </div>
       <div>
         <strong>Fall 2023</strong>
@@ -123,6 +128,7 @@
       <div style="flex: 1;">
         <strong>Teaching Assistant, Graduate Machine Learning course</strong>
         <br>University of Science and Culture
+        <br>Dr. Alireza Rezvanian
       </div>
       <div>
         <strong>Fall 2022</strong>
