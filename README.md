@@ -4,8 +4,8 @@
 </head>
 <body>
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px; background-color: #f5f5f5; max-width: 230px; text-align: center;">
-    <img src="assets/img/profile9.png" alt="Profile Picture" width="230" style="border-radius: 50%;">
+  <div style="flex: 1; padding: 20px; background-color: #f5f5f5; max-width: 200px; text-align: center;">
+    <img src="assets/img/profile9.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
     <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
