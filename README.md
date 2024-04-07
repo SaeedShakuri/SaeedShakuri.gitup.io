@@ -220,14 +220,14 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
 <h2 style="padding-top: 15px;">Professional Services</h2>
 <ul>
   <li style="margin-bottom: 10px;">
- <div style="font-weight: bold;">Reviewer</div>
+ <strong><div>Reviewer</div></strong>
     <div style="display: flex; justify-content: space-between;">
         <div>Wiley - The Journal of Engineering</div>
-        <div style="font-weight: bold;">Aug. 2023</div>
+        <strong><div>Aug. 2023</div></strong>
     </div>
     <div style="display: flex; justify-content: space-between;">
         <div>Elsevier - Data in Brief Journal</div>
-        <div style="font-weight: bold;">Mar. 2023 - Apr. 2023</div>
+       <strong><div>Mar. 2023 - Apr. 2023</div></strong>
     </div>
   </li>
 
