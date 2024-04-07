@@ -14,7 +14,7 @@
       <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
       <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
       
-            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/1Wp0zAxaKzlFMBpJvFvATbQXjFFIoSK4j/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
+            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/1N40i6k_d3claSOEmRWOPhs2zpQB6rU3n/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
       
     </div>
   </div>
@@ -25,7 +25,7 @@
       <section>
         <h2>About me</h2>
         <p>
-            I am a master's student in Data Science major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am truly enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications in general but with some emphasis on the Computer Vision context. I recognize the importance and my passion for this field, and I am committed to performing continuous and comprehensive research in my field of study. <strong>Starting fall 2023, I’m actively looking for Ph.D. positions in the Deep Learning context with some emphasis on Computer Vision for fall 2024.</strong>
+            I am a master's student in Data Science major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am truly enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications in general, which leads to high-quality research in real-world challenges. I recognize the importance and my passion for this field, and I am committed to performing continuous and comprehensive research in my field of study. <strong>Starting fall 2023, I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024.</strong>
         </p>
         <p style="margin-bottom: 0;">
             <strong>Highlight of my research experience</strong>
@@ -38,7 +38,7 @@
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
       <p style="margin-top: 8;">
-        Deep Learning, Computer Vision, Few-Shot Learning, Vision Transformers
+        Machine Learing, Deep Learning, Computer Vision, Transformers
       </p>
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -153,6 +153,18 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
+        Object detection with Detectron2
+        <a href="https://github.com/SaeedShakuri/Detectron2">GitHub</a>
+      </div>
+      <div>
+        <strong> Spring 2024 </strong>
+      </div>
+    </div>
+  </li>
+    
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
         Measuring sentence similarity with a TF-IDF approach
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
       </div>
@@ -165,7 +177,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
-        A classification model using Ensemble Learning with Abalone dataset
+        A classification project using Ensemble Learning with the Abalone dataset
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
       </div>
       <div>
@@ -177,7 +189,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
-        A Transfer Learning method using ResNet50 for image classification
+        An Image classification project using Transfer Learning with ResNet50
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
       </div>
       <div>
@@ -189,19 +201,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: center;">
       <div style="flex: 1;">
-        Filters and feature maps visualization of ResNet50
-        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/ReseNet50">GitHub</a>
-      </div>
-      <div>
-        <strong> Spring 2022 </strong>
-      </div>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <div style="flex: 1;">
-        A classification model with a neural network and CIFAR-10 dataset
+        An image classification project with a neural network and the CIFAR-10 dataset
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
       </div>
       <div>
@@ -220,26 +220,14 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
 <h2 style="padding-top: 15px;">Professional Services</h2>
 <ul>
   <li style="margin-bottom: 10px;">
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
-        <strong>Reviewer</strong>
-        <br>Wiley - The Journal of Engineering
-      </div>
-      <div>
-        <strong>Aug. 2023</strong>
-      </div>
+ <div style="font-weight: bold;">Reviewer</div>
+    <div style="display: flex; justify-content: space-between;">
+        <div>Wiley - The Journal of Engineering</div>
+        <div style="font-weight: bold;">Aug. 2023</div>
     </div>
-  </li>
-
-  <li style="margin-bottom: 10px;">
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
-        <strong>Reviewer</strong>
-        <br>Elsevier - Data in Brief Journal
-      </div>
-      <div>
-        <strong>Mar. 2023 - Apr. 2023</strong>
-      </div>
+    <div style="display: flex; justify-content: space-between;">
+        <div>Elsevier - Data in Brief Journal</div>
+        <div style="font-weight: bold;">Mar. 2023 - Apr. 2023</div>
     </div>
   </li>
 
