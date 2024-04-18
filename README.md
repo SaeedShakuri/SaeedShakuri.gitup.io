@@ -25,7 +25,7 @@
       <section>
         <h2>About me</h2>
         <p>
-            I am a master's student in Data Science major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am truly enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications in general, which leads to high-quality research in real-world challenges. I recognize the importance and my passion for this field, and I am committed to performing continuous and comprehensive research in my field of study. <strong>Starting fall 2023, I’m actively looking for Ph.D. positions in the Deep Learning context for fall 2024.</strong>
+            I am a master's student in Data Science major under the supervision of <a href="http://rezvanian.usc.ac.ir/en"> Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am truly enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications in general, which leads to high-quality research in real-world challenges. I recognize the importance and my passion for this field, and I am committed to performing continuous and comprehensive research in my field of study. <strong>I’m actively looking for a Ph.D. position in the context of Deep Learning.</strong>
         </p>
         <p style="margin-bottom: 0;">
             <strong>Highlight of my research experience</strong>
