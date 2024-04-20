@@ -5,7 +5,7 @@
 <body>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background-color: #f5f5f5; max-width: 200px; text-align: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQEMBVam7cH2_w/profile-displayphoto-shrink_800_800/0/1712937342509?e=1718841600&v=beta&t=o7yE6uB6HUQPXvj3rxCRrG6CaXlvjfblH9t0cs4BuFg" alt="Profile Picture" width="200" style="border-radius: 50%;">
+    <img src="assets/img/profile9.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
     <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
