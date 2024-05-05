@@ -156,9 +156,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
         Object detection with Detectron2
         <a href="https://github.com/SaeedShakuri/Detectron2">GitHub</a>
       </div>
-      <div>
-        <strong> Spring 2024 </strong>
-      </div>
+
     </div>
   </li>
     
@@ -168,9 +166,17 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
         Measuring sentence similarity with a TF-IDF approach
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
       </div>
-      <div>
-        <strong> Spring 2023 </strong>
+
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <div style="flex: 1;">
+        Using PyTorch in Deep Learning tasks (Computer Vision)
+        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
       </div>
+
     </div>
   </li>
 
@@ -180,9 +186,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
         A classification project using Ensemble Learning with the Abalone dataset
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
       </div>
-      <div>
-        <strong> Spring 2022 </strong>
-      </div>
+  
     </div>
   </li>
 
@@ -192,21 +196,7 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
         An Image classification project using Transfer Learning with ResNet50
         <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
       </div>
-      <div>
-        <strong> Spring 2022 </strong>
-      </div>
-    </div>
-  </li>
 
-  <li style="margin-bottom: 10px;">
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-      <div style="flex: 1;">
-        An image classification project with a neural network and the CIFAR-10 dataset
-        <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/CIFAR-10">GitHub</a>
-      </div>
-      <div>
-        <strong> Spring 2022 </strong>
-      </div>
     </div>
   </li>
 </ul>
