@@ -14,7 +14,7 @@
       <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
       <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
       
-            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/1N40i6k_d3claSOEmRWOPhs2zpQB6rU3n/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
+            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/15X6GHlvWx0pSP37KSkkLBidKCLAwshT3/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
       
     </div>
   </div>
@@ -53,7 +53,7 @@
         <br>Thesis: Object detection with Few-Shot Learning and Vision Transformers
       </div>
       <div>
-        <strong>Oct. 2021 - Expected spring 2024</strong>
+        <strong>Oct. 2021 - Expected summer 2024</strong>
       </div>
     </div>
   </li>
