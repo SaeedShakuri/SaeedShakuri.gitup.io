@@ -14,7 +14,7 @@
       <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
       <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
       
-            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/15X6GHlvWx0pSP37KSkkLBidKCLAwshT3/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
+            <div style="margin: 2px;"><a href="https://drive.google.com/file/d/1z1-p8jfa1S1ZU40RYaU4WoesLtzjdw25/view?usp=sharing" style="text-decoration: none;none;"><i class="far fa-file-pdf"></i> CV</a></div>
       
     </div>
   </div>
@@ -31,7 +31,7 @@
             <strong>Highlight of my research experience</strong>
         </p>
         <ul style="margin-top: 8;">
-            <li>I am currently working on Few-Shot object detection for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers.</li>
+            <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medial images.</li>
             <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
                 quantization-aware training’ </strong> and  <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong>, which are submitted to ”Neural Computing and Applications (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
         </ul>
@@ -99,7 +99,8 @@ resolution scaling.” In 2024 10th International Conference on Web Research (IC
   </li>
   <li style="margin-bottom: 10px;">
     <div>
-<strong> (In preparation) </strong> <strong>Saeed Shakuri </strong>, Alireza Rezvanian, ”Few-Shot object detection using Vision Transformers”.
+<strong> (In preparation) </strong> <strong>Saeed Shakuri </strong>, Alireza Rezvanian, ”Object detection with Few-Shot Learning and Vision Transformers on medical
+images”.
     </div>
   </li>
 </ul>
