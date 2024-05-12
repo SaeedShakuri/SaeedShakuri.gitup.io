@@ -31,7 +31,7 @@
             <strong>Highlight of my research experience</strong>
         </p>
         <ul style="margin-top: 8;">
-            <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medial images.</li>
+            <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medical images.</li>
             <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
                 quantization-aware training’ </strong> and  <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong>, which are submitted to ”Neural Computing and Applications (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
         </ul>
