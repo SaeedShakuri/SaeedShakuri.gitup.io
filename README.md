@@ -33,7 +33,7 @@
         <ul style="margin-top: 8;">
             <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medical images.</li>
             <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
-                quantization-aware training’ </strong> and  <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong>, which are submitted to ”Neural Computing and Applications (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
+                quantization-aware training’ </strong> and  <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong>, which are submitted to ” Journal of Real-Time Image Processing (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
@@ -91,7 +91,7 @@
 <ul>
   <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Hojjat Shamami. ”Real-time facial emotion
-recognition in smartphones using EfficientNetV2 and quantization-aware training.” In Neural Computing and Applications, Springer.
+recognition in smartphones using EfficientNetV2 and quantization-aware training.” In  Journal of Real-Time Image Processing, Springer.
   </li>
     <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable real-time emotion recognition using EfficientNetV2 and
