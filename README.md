@@ -10,10 +10,10 @@
     
     <!-- Social Media Links -->
     <div style="margin-top: 7px; text-align: left;">
+          <div style="margin: 2px;"> <a href="https://www.researchgate.net/profile/Saeed-Shakuri-2" style="text-decoration: none;"> <i class="fas fa-user-graduate"> </i> ResearchGate </a> </div>
       <div style="margin: 2px;"><a href="https://www.linkedin.com/in/saeed-shakuri" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
       <div style="margin: 2px;"><a href="https://github.com/SaeedShakuri" style="text-decoration: none;"><i class="fab fa-github"></i> GitHub</a></div>
       <div style="margin: 2px;"><a href="mailto:saeed.shakuri.m@gmail.com" style="text-decoration: none;"><i class="far fa-envelope"></i> Email</a></div>
-      <div style="margin: 2px;"> <a href="https://www.researchgate.net/profile/Saeed-Shakuri-2" style="text-decoration: none;"> <i class="fas fa-user-graduate"> </i> ResearchGate </a> </div>
       <div style="margin: 2px;"> <a href="https://raw.githubusercontent.com/SaeedShakuri/SaeedShakuri.gitup.io/main/assets/img/Saeed_Shakuri_CV.pdf" style="text-decoration: none;"> <i class="far fa-file-pdf"> </i> CV </a> </div>
       
     </div>
@@ -33,7 +33,7 @@
         <ul style="margin-top: 8;">
             <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medical images.</li>
             <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
-                quantization-aware training’ </strong> which is submitted to ”Journal of Real-Time Image Processing (Springer)”, and <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong> which is accepted and presented in ” Journal of Real-Time Image Processing (Springer)” and ”ICWR 10th (IEEE)” respectively.</li>
+                quantization-aware training’ </strong> which is submitted to ”Journal of Real-Time Image Processing (Springer)”, and <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling.’ </strong> which is accepted and presented in ”ICWR 10th (IEEE)” respectively.</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
