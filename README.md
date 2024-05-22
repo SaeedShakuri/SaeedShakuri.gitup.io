@@ -33,7 +33,7 @@
         <ul style="margin-top: 8;">
             <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medical images.</li>
             <li style="padding-top: 15px;"> I recently collaborated on two articles titled  <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and
-                quantization-aware training’ </strong> which is submitted to ”The Journal of Real-Time Image Processing (Springer)”, and <strong>’ Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling’ </strong> which is accepted and presented in ”ICWR 10th (IEEE)”.</li>
+                quantization-aware training’ </strong> which is submitted to ”The Journal of Real-Time Image Processing (Springer)”, and <strong>’ Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling’ </strong> which is published in ”ICWR 10th (IEEE)”.</li>
         </ul>
     </section>
       <h4 style="margin-bottom: 0;">Research interests:</h4>
@@ -89,14 +89,16 @@
 
 <h2 style="padding-top: 15px;">Publications</h2>
 <ul>
+      <li style="margin-bottom: 10px;">
+    <strong> <a href="https://ieeexplore.ieee.org/document/10533360">(Published)</a></strong> Omid Ghadami, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable real-time emotion recognition using EfficientNetV2 and
+resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
+  </li>
+  
   <li style="margin-bottom: 10px;">
     <strong> (Submitted)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Hojjat Shamami. ”Real-time facial emotion
 recognition in smartphones using EfficientNetV2 and quantization-aware training.” In  Journal of Real-Time Image Processing, Springer.
   </li>
-    <li style="margin-bottom: 10px;">
-    <strong> (Accepted and Presented)</strong> Omid Ghadami, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable real-time emotion recognition using EfficientNetV2 and
-resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
-  </li>
+
   <li style="margin-bottom: 10px;">
     <div>
 <strong> (In preparation) </strong> <strong>Saeed Shakuri </strong>, Alireza Rezvanian, ”Object detection with Few-Shot Learning and Vision Transformers on medical
