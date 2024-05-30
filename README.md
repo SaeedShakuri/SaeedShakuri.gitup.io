@@ -50,7 +50,7 @@
       <div style="flex: 1;">
         <strong>University of Science and Culture, Tehran, Iran</strong>
         <br>M.Sc., Data Science
-        <br>Thesis: Object detection with Few-Shot Learning and Vision Transformers on medical images.
+        <br><strong><u>Thesis:</u></strong> Object detection with Few-Shot Learning and Vision Transformers on medical images.
       </div>
       <div>
         <strong>Oct. 2021 - Expected summer 2024</strong>
@@ -63,6 +63,7 @@
       <div style="flex: 1;">
         <strong>Technical and Vocational University, Tehran, Iran</strong>
         <br>B.E., Electronics Engineering (Shamsipour College)
+        <br><strong><u>Project:</u></strong> An electronic device and a mobile application for remotely managing household keys and monitoring environmental conditions via WiFi.
       </div>
       <div>
         <strong>2018 - 2021</strong>
