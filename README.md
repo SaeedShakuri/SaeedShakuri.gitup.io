@@ -91,8 +91,8 @@
 <h2 style="padding-top: 15px;">Publications</h2>
 <ul>
       <li style="margin-bottom: 10px;">
-    <strong> <a href="https://ieeexplore.ieee.org/document/10533360">(Published)</a></strong> Omid Ghadami, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable real-time emotion recognition using EfficientNetV2 and
-resolution scaling.” In 2024 10th International Conference on Web Research (ICWR), IEEE
+    <strong> (<a href="https://ieeexplore.ieee.org/document/10533360">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2
+and Resolution Scaling.” 2024 10th International Conference on Web Research (ICWR). IEEE, 2024.
   </li>
   
   <li style="margin-bottom: 10px;">
