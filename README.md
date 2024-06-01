@@ -132,7 +132,7 @@
       <li style="margin-bottom: 15px;">
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
-            <strong>Teaching Assistant, Undergraduate Artificial Intelligence course</strong>
+            <strong>Teaching Assistant, Undergraduate Artificial Intelligence class</strong>
             <br>University of Science and Culture
             <br>Dr. Azadeh Tabatabei
           </div>
@@ -145,7 +145,7 @@
       <li>
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
-            <strong>Teaching Assistant, Graduate Machine Learning course</strong>
+            <strong>Teaching Assistant, Graduate Machine Learning class</strong>
             <br>University of Science and Culture
             <br>Dr. Alireza Rezvanian
           </div>
