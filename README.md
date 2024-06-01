@@ -9,6 +9,7 @@
     <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
+    <div style="margin: 2px;"><a href="https://scholar.google.com/citations?hl=en&user=fuJHdW0AAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration: none;"><i class="fa-google-scholar"></i> Google Scholar</a></div>
     <div style="margin-top: 7px; text-align: left;">
           <div style="margin: 2px;"> <a href="https://www.researchgate.net/profile/Saeed-Shakuri-2" style="text-decoration: none;"> <i class="fas fa-user-graduate"> </i> ResearchGate </a> </div>
       <div style="margin: 2px;"><a href="https://www.linkedin.com/in/saeed-shakuri" style="text-decoration: none;"><i class="fab fa-linkedin"></i> LinkedIn</a></div>
@@ -233,7 +234,7 @@ images”.
         <br>Conducting assessments of computer science bachelor students’ final projects, followed by assigning grades.
       </div>
       <div>
-        <strong>Jul. 2023</strong>
+        <strong>Jul. 2023 & Jan. 2024</strong>
       </div>
     </div>
   </li>
