@@ -73,7 +73,7 @@
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
             <strong>University of Science and Culture, Tehran, Iran</strong>
-            <br>M.Sc., Data Science
+            <br>M.Sc., Data Science (GPA 4/4 or 19.05/20)
             <br><strong><u>Thesis:</u></strong> Object detection with Few-Shot Learning and Vision Transformers on medical images.
           </div>
           <div>
