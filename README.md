@@ -50,19 +50,24 @@
     <section>
       <h2>About me</h2>
       <p>
-        I am a master's student in Data Science major under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a> at the University of Science and Culture, Tehran, Iran. I am truly enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications in general, which leads to high-quality research in real-world challenges. I recognize the importance and my passion for this field, and I am committed to performing continuous and comprehensive research in my field of study. <strong>I’m actively looking for a Ph.D. position in the field of Deep Learning.</strong>
+        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and I am enthusiastic about doing research at the forefront of Deep Learning methods within real-world applications and challenges. I also would like to conduct high-quality research, resulting in publications in top-tier venues. <strong>I’m actively looking for a Ph.D. position in the field of Deep Learning.</strong>
       </p>
       <p style="margin-bottom: 0;">
         <strong>Highlight of my research experience</strong>
       </p>
       <ul style="margin-top: 8px;">
-        <li>I am currently working on object detection in images for my master's thesis, utilizing a method that integrates Few-Shot Learning and Vision Transformers on medical images.</li>
-        <li style="padding-top: 15px;">I recently collaborated on two articles titled <strong>’Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training’</strong> which is submitted to ” Multimedia Tools and Application (Springer)”, and <strong>’Scalable real-time emotion recognition using EfficientNetV2 and resolution scaling’</strong> which is published in ”ICWR 10th (IEEE)”.</li>
+          
+        <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
+been accepted at the 10th ICSIE, 2024 (IEEE)</li>
+
+        <li style="padding-top: 15px;">I am currently working on employing Few-shot Learning methods in lung nodule detection for my master’s thesis.</li>
+        
+        <li style="padding-top: 15px;">I have also collaborated on two papers focused on the Image Classification task (More info in the Publications section)</li>        
       </ul>
     </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8px;">
-      Machine Learning, Deep Learning, Computer Vision, Transformers
+      Deep Learning, Computer Vision, Transformers, Medical Image Processing
     </p>
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -74,10 +79,10 @@
           <div style="flex: 1;">
             <strong>University of Science and Culture, Tehran, Iran</strong>
             <br>M.Sc., Data Science (GPA 4/4 or 19.05/20)
-            <br><strong><u>Thesis:</u></strong> Object detection with Few-Shot Learning and Vision Transformers on medical images.
+            <br><strong><u>Thesis:</u></strong> Few-shot lung nodule detection.
           </div>
           <div>
-            <strong>Oct. 2021 - Expected summer 2024</strong>
+            <strong>Oct. 2021 - Expected Feb 2025</strong>
           </div>
         </div>
       </li>
@@ -87,7 +92,7 @@
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Tehran, Iran</strong>
             <br>B.E., Electronics Engineering (Shamsipour College)
-            <br><strong><u>Project:</u></strong> An electronic device and a mobile application for remotely managing household keys and monitoring environmental conditions via WiFi.
+            <br><strong><u>Project:</u></strong> An electronic device and a mobile application for monitoring environmental conditions via WiFi.
           </div>
           <div>
             <strong>2018 - 2021</strong>
@@ -112,12 +117,17 @@
 
     <h2 style="padding-top: 15px;">Publications</h2>
     <ul>
+        
+      <li style="margin-bottom: 10px;">
+        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” Multimedia Tools and Application, Springer.
+      </li>        
+        
       <li style="margin-bottom: 10px;">
         <strong>(<a href="https://ieeexplore.ieee.org/document/10533360">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 2024 10th International Conference on Web Research (ICWR). IEEE, 2024.
       </li>
   
       <li style="margin-bottom: 10px;">
-        <strong>(Submitted)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Hojjat Shamami. ”Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training.” Multimedia Tools and Application, Springer.
+        <strong>(Submitted)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Shamami. ”Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training.” Multimedia Tools and Application, Springer.
       </li>
 
       <li style="margin-bottom: 10px;">
@@ -181,7 +191,7 @@
       <li style="margin-bottom: 10px;">
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
-            Using PyTorch in Deep Learning tasks (Computer Vision)
+            Deep Learning projects using PyTorch (Computer Vision)
             <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
           </div>
         </div>
