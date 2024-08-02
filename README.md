@@ -50,7 +50,7 @@
     <section>
       <h2>About me</h2>
       <p>
-        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in Deep Learning methods within real-world applications and challenges. My current research focuses on Computer Vision methods in detecting lung nodules associated with lung cancer. Additionally, I would like to conduct high-quality research, resulting in publications in top-tier venues. <strong>I’m actively looking for a Ph.D. position in the field of Deep Learning.</strong>
+        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in Deep Learning methods within real-world applications and challenges. My current research focuses on Computer Vision methods in detecting lung nodules associated with lung cancer. Additionally, I would like to conduct high-quality research, resulting in publications in top-tier venues. <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning.</strong>
       </p>
       <p style="margin-bottom: 0;">
         <strong>Highlight of my research experience</strong>
@@ -60,7 +60,7 @@
         <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
 been accepted at the 10th ICSIE, 2024 (IEEE)</li>
 
-        <li style="padding-top: 15px;">I am currently working on employing Few-shot Learning methods in lung nodule detection for my master’s thesis.</li>
+        <li style="padding-top: 15px;">I am currently working on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images.</li>
         
         <li style="padding-top: 15px;">I have also collaborated on two papers focused on the Image Classification task (More info in the Publications section)</li>        
       </ul>
@@ -82,7 +82,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
             <br><strong><u>Thesis:</u></strong> Few-shot lung nodule detection.
           </div>
           <div>
-            <strong>Oct. 2021 - Expected Feb 2025</strong>
+            <strong>Oct. 2021 - Expected Feb. 2025</strong>
           </div>
         </div>
       </li>
@@ -92,7 +92,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Tehran, Iran</strong>
             <br>B.E., Electronics Engineering (Shamsipour College)
-            <br><strong><u>Project:</u></strong> An electronic device and a mobile application for monitoring environmental conditions via WiFi.
+            <br><strong><u>Project:</u></strong> A smart house project with an electronic device and a mobile application for monitoring and controlling the household environmental conditions and switches via WiFi and Arduino.
           </div>
           <div>
             <strong>2018 - 2021</strong>
@@ -105,6 +105,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Karaj, Iran</strong>
             <br>A.S., Electronics Engineering (Beheshti College)
+            <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switching using Arduino.            
           </div>
           <div>
             <strong>2016 - 2018</strong>
@@ -123,11 +124,11 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
       </li>        
         
       <li style="margin-bottom: 10px;">
-        <strong>(<a href="https://ieeexplore.ieee.org/document/10533360">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 2024 10th International Conference on Web Research (ICWR). IEEE, 2024.
+        <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 2024 10th International Conference on Web Research (ICWR). IEEE, 2024.
       </li>
   
       <li style="margin-bottom: 10px;">
-        <strong>(Submitted)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Shamami. ”Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training.” Multimedia Tools and Application, Springer.
+        <strong>(Under Review)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Shamami. ”Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training.” Multimedia Tools and Application, Springer.
       </li>
 
       <li style="margin-bottom: 10px;">
