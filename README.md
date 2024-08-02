@@ -105,7 +105,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Karaj, Iran</strong>
             <br>A.S., Electronics Engineering (Beheshti College)
-            <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switching using Arduino.            
+            <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switching.            
           </div>
           <div>
             <strong>2016 - 2018</strong>
