@@ -92,7 +92,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Tehran, Iran</strong>
             <br>B.E., Electronics Engineering (Shamsipour College)
-            <br><strong><u>Project:</u></strong> A smart house project with an electronic device and a mobile application for monitoring and controlling the household environmental conditions and switches via WiFi and Arduino.
+            <br><strong><u>Project:</u></strong> A smart house project with an electronic device and a mobile application for monitoring and controlling household environmental conditions and switches via WiFi and Arduino.
           </div>
           <div>
             <strong>2018 - 2021</strong>
@@ -105,7 +105,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Karaj, Iran</strong>
             <br>A.S., Electronics Engineering (Beheshti College)
-            <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switching.            
+            <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switch.            
           </div>
           <div>
             <strong>2016 - 2018</strong>
