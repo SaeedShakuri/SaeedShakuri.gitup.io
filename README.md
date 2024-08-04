@@ -5,7 +5,7 @@
 <body>
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px; background-color: #f5f5f5; max-width: 400px; text-align: center;">
-<img src="assets/img/image.png" alt="Profile Picture" width="250" style="border-radius: 20px; width: 200px; height: 230px; object-fit: fill;">
+<img src="assets/img/image.jpeg" alt="Profile Picture" width="250" style="border-radius: 20px; width: 200px; height: 230px; object-fit: fill;">
     <h2 style="text-align: left;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
