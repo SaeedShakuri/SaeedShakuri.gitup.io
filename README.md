@@ -8,7 +8,7 @@
 <div style="width: 200px; height: 220px; overflow: hidden; border-radius: 20px;">
     <img src="assets/img/image.jpeg" alt="Profile Picture" style="width: auto; height: 100%; object-fit: cover;">
 </div>
-    <h2 style="text-align: left;">Saeed Shakuri</h2>
+    <h2 style="text-align: center;">Saeed Shakuri</h2>
     
     <!-- Social Media Links -->
 
