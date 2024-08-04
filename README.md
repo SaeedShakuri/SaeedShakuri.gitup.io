@@ -269,7 +269,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>BlazingFallApps, remotely</strong>
             <br>Software Developer
-            <br>Developing various mobile applications with the Flutter framework
+            <br>Developing the following mobile applications with the Flutter framework:  A digital board game, a warehouse handling application for shopping stores, and a real estate application
           </div>
           <div>
             <strong>Mar. 2020 - Nov. 2021</strong>
@@ -282,7 +282,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE)</li>
           <div style="flex: 1;">
             <strong>PergasTeb, remotely</strong>
             <br>Software Developer
-            <br>Developing a medical android application with the Flutter framework
+            <br>Developing a medical android application with the Flutter framework for better interaction between doctors and their patients.
           </div>
           <div>
             <strong>May 2020 - Oct 2020</strong>
