@@ -4,9 +4,9 @@
 </head>
 <body>
 <div style="display: flex;">
-  <div style="flex: 1; background-color: #f5f5f5; max-width: 350px; text-align: center;">
-<div style="width: 225px; height: 245px; overflow: hidden; border-radius: 20px; margin: 10px;"> <!-- Adjust margin as needed -->
-    <img src="assets/img/image.jpeg" alt="Profile Picture" style="width: auto; height: 100%; object-fit: cover; margin: -10px;">
+  <div style="flex: 1; background-color: #f5f5f5; max-width: 450px; text-align: center;">
+<div style="width: 245px; height: 265px; overflow: hidden; border-radius: 20px;">
+    <img src="assets/img/image.jpeg" alt="Profile Picture" style="width: auto; height: 100%; object-fit: cover; margin: 10px;">
 </div>
     <h2 style="text-align: center;">Saeed Shakuri</h2>
     
