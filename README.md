@@ -4,7 +4,7 @@
 </head>
 <body>
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px; background-color: #f5f5f5; max-width: 400px; text-align: center;">
+  <div style="flex: 1; padding: 5px; background-color: #f5f5f5; max-width: 400px; text-align: center;">
 <div style="width: 200px; height: 220px; overflow: hidden; border-radius: 20px;">
     <img src="assets/img/image.jpeg" alt="Profile Picture" style="width: auto; height: 100%; object-fit: cover;">
 </div>
