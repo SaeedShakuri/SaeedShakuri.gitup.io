@@ -24,7 +24,7 @@
     }
   </style>
 </head>
-<body>
+<body style="margin: 0;">
 <div class="container">
   <div class="sidebar">
 <div style="width: 245px; height: 265px; overflow: hidden; border-radius: 20px; margin: 10px;">
