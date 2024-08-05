@@ -3,8 +3,8 @@
 <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css'>
 </head>
 <body>
-<div style="display: flex; width: 100%; justify-content: space-between;">
-  <div style="flex: 1; background-color: #f5f5f5; max-width: none; text-align: center;">
+<div style="display: flex; width: 100%;">
+  <div style="flex: 1; background-color: #f5f5f5; text-align: center;">
 <div style="width: 245px; height: 265px; overflow: hidden; border-radius: 20px; margin: 10px;">
     <img src="assets/img/image.jpeg" alt="Profile Picture" style="width: auto; height: 100%; object-fit: cover; ">
 </div>
