@@ -106,7 +106,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE).</li>
             <br><strong><u>Thesis:</u></strong> Few-shot lung nodule detection.
           </div>
           <div>
-            <strong>Oct. 2021 - Expected Feb. 2025</strong>
+            <strong>Oct. 2021 - Expected Fall 2025</strong>
           </div>
         </div>
       </li>
