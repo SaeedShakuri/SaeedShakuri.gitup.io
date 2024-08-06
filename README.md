@@ -34,7 +34,7 @@
     
     <!-- Social Media Links -->
 
-    <div style="margin-top: 7px; text-align: left;">
+    <div style="padding-left: 10px; text-align: left;">
       <div style="margin: 2px;">
         <a href="https://scholar.google.com/citations?hl=en&user=fuJHdW0AAAAJ&view_op=list_works&sortby=pubdate" style="text-decoration: none;">
           <i class="fas fa-user-graduate"></i> Google Scholar 
