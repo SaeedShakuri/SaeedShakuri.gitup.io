@@ -156,7 +156,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE).</li>
       </li>
 
       <li style="margin-bottom: 10px;">
-        <strong>(In preparation)</strong> <strong>Saeed Shakuri</strong>, Alireza Rezvanian, ”Few-shot Lung Nodule Detection Using Vision Transformers”.
+        <strong>(In preparation)</strong> <strong>Saeed Shakuri</strong>, Alireza Rezvanian, ”Few-shot Lung Nodule Detection Using Swin Transformer”.
       </li>
     </ul>
 
