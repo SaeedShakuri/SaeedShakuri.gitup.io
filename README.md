@@ -216,7 +216,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE).</li>
       <li style="margin-bottom: 10px;">
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
-            Deep Learning projects using PyTorch (Computer Vision)
+            A few Deep Learning projects using PyTorch (Computer Vision)
             <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
           </div>
         </div>
