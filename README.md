@@ -130,7 +130,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE).</li>
             <strong>Technical and Vocational University, Karaj, Iran</strong>
             <br>A.S., Electronics Engineering (Beheshti College)
           <!--  <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switch.            -->
-          <!--</div>-->
+          </div>
           <div>
             <strong>2016 - 2018</strong>
           </div>
