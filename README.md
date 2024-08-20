@@ -91,7 +91,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE).</li>
     </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8px;">
-      Deep Learning, Computer Vision, Transformers, Medical Image Processing
+      Deep Learning, Computer Vision, Medical Image Analysis
     </p>
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
