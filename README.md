@@ -77,7 +77,7 @@
         I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in Deep Learning methods within real-world applications and challenges. My current research focuses on Computer Vision methods in detecting lung nodules associated with lung cancer. Additionally, I would like to conduct high-quality research, resulting in publications in top-tier venues. <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning for fall 2025.</strong>
       </p>
       <p style="margin-bottom: 0;">
-        <strong>Highlight of my research experience</strong>
+        <strong>Highlight of my research experience:</strong>
       </p>
       <ul style="margin-top: 8px;">
           
