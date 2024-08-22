@@ -82,7 +82,7 @@
       <ul style="margin-top: 8px;">
           
         <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
-been accepted at the 10th ICSIE, 2024 (IEEE).</li>
+been accepted at the 19th ICIS, 2024 (IEEE).</li>
 
         <li style="padding-top: 15px;">I am currently working on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images.</li>
         
@@ -144,7 +144,7 @@ been accepted at the 10th ICSIE, 2024 (IEEE).</li>
     <ul>
         
       <li style="margin-bottom: 10px;">
-        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” Multimedia Tools and Application, Springer.
+        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS).
       </li>        
         
       <li style="margin-bottom: 10px;">
