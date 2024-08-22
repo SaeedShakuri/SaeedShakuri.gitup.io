@@ -144,11 +144,11 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
     <ul>
         
       <li style="margin-bottom: 10px;">
-        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS). IEEE, 2024.
+        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
       </li>        
         
       <li style="margin-bottom: 10px;">
-        <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 2024 10th International Conference on Web Research (ICWR). IEEE, 2024.
+        <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 2024 10th International Conference on Web Research (ICWR), IEEE, 2024.
       </li>
   
       <li style="margin-bottom: 10px;">
