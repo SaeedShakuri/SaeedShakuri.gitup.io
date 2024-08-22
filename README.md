@@ -84,8 +84,7 @@
         <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
 been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>
 
-        <li style="padding-top: 15px;">I also work on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan
-images.</li>
+        <li style="padding-top: 15px;">I also have worked on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images, and it's in the final phase and is going to be submitted to Computerized Medical Imaging and Graphics.</li>
         
         <li style="padding-top: 15px;">I have also collaborated on two papers focused on the Image Classification task (More info in the Publications section)</li>        
       </ul>
