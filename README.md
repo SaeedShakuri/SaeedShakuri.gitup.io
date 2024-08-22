@@ -82,9 +82,10 @@
       <ul style="margin-top: 8px;">
           
         <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
-been accepted at the 19th ICIS, 2024 (IEEE).</li>
+been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>
 
-        <li style="padding-top: 15px;">I am currently working on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images.</li>
+        <li style="padding-top: 15px;">I also work on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan
+images.</li>
         
         <li style="padding-top: 15px;">I have also collaborated on two papers focused on the Image Classification task (More info in the Publications section)</li>        
       </ul>
@@ -144,7 +145,7 @@ been accepted at the 19th ICIS, 2024 (IEEE).</li>
     <ul>
         
       <li style="margin-bottom: 10px;">
-        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS).
+        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS). IEEE, 2024.
       </li>        
         
       <li style="margin-bottom: 10px;">
@@ -156,7 +157,7 @@ been accepted at the 19th ICIS, 2024 (IEEE).</li>
       </li>
 
       <li style="margin-bottom: 10px;">
-        <strong>(In preparation)</strong> <strong>Saeed Shakuri</strong>, Alireza Rezvanian, ”Lung Nodule Detection Using Few-shot Learning and Swin Transformer”.
+        <strong>(In preparation)</strong> <strong>Saeed Shakuri</strong>, Alireza Rezvanian, ”Lung Nodule Detection Using Few-shot Learning and Swin Transformer” to be submitted to Computerized Medical Imaging and Graphics.
       </li>
     </ul>
 
