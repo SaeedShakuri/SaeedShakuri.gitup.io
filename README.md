@@ -86,7 +86,8 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
 
         <li style="padding-top: 15px;">I also have worked on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images, and it's in the final phase and is going to be submitted to Computerized Medical Imaging and Graphics.</li>
         
-        <li style="padding-top: 15px;">I have also collaborated on two papers focused on the Image Classification task (More info in the Publications section)</li>        
+        <li style="padding-top: 15px;"> have also collaborated on two papers focused on the Image Classification domain within real-time emotion recognition
+(More info in the Publications section).</li>        
       </ul>
     </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
@@ -208,7 +209,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
             Measuring sentence similarity with a TF-IDF approach
-            <a href="https://github.com/SaeedShakuri/Projects/tree/main/NLP">GitHub</a>
+            <a href="https://github.com/SaeedShakuri/ML-DL-Projects/tree/main/NLP">GitHub</a>
           </div>
         </div>
       </li>
@@ -216,8 +217,8 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
       <li style="margin-bottom: 10px;">
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
-            A few Deep Learning projects using PyTorch (Computer Vision)
-            <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
+            Computer Vision projects using PyTorch
+            <a href="https://github.com/SaeedShakuri/Computer-Vision">GitHub</a>
           </div>
         </div>
       </li>
@@ -226,7 +227,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
             A classification project using Ensemble Learning with the Abalone dataset
-            <a href="https://github.com/SaeedShakuri/Projects/tree/main/Ensemble%20Learning">GitHub</a>
+            <a href="https://github.com/SaeedShakuri/ML-DL-Projects/tree/main/Ensemble%20Learning">GitHub</a>
           </div>
         </div>
       </li>
@@ -235,7 +236,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
             An Image classification project using Transfer Learning with ResNet50
-            <a href="https://github.com/SaeedShakuri/Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
+            <a href="https://github.com/SaeedShakuri/ML-DL-Projects/tree/main/Convolutional-Neural-Network/Transfer%20Learning">GitHub</a>
           </div>
         </div>
       </li>
@@ -273,7 +274,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
       <li style="margin-bottom: 10px;">
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
-            <strong>Presenter</strong>
+            <strong>Invited Presenter</strong>
             <br>University of Science and Culture
             <br>Presentation title: ”<a href="https://www.researchgate.net/publication/372553317_An_Introduction_to_Few-Shot_Learning_-_Saeed_Shakuri">An Introduction to Few-Shot Learning</a>”
           </div>
