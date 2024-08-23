@@ -82,7 +82,7 @@
       <ul style="margin-top: 8px;">
           
         <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
-been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>
+been submitted to the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>
 
         <li style="padding-top: 15px;">I also have worked on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images, and it's in the final phase and is going to be submitted to Computerized Medical Imaging and Graphics.</li>
         
@@ -145,7 +145,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
     <ul>
         
       <li style="margin-bottom: 10px;">
-        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
+        <strong>(Submitted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
       </li>        
         
       <li style="margin-bottom: 10px;">
